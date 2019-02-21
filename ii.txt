@@ -1,0 +1,8 @@
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib 
+deb-src http://http.kali.org/kali kali-rolling main contrib non-free
+deb http://ftp.de.debian.org/debian stretch main deb
+deb http://old.kali.org/kali sana main non-free contrib
+deb-src http://old.kali.org/kali sana main non-free contrib
+deb http://old.kali.org/kali moto main non-free contrib
+deb-src http://old.kali.org/kali moto main non-free contrib
